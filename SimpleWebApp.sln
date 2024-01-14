@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathService", "MathService\MathService.csproj", "{5A6C3170-8887-4450-9CC7-A6F50E64E013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathService.Tests", "MathService.Tests\MathService.Tests.csproj", "{11007D06-6A0E-477C-B471-5D4AAB105839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialPresentation", "FactorialPresentation\FactorialPresentation.csproj", "{53696897-2FDF-47B3-BCBA-2FDA976BF6F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6C3170-8887-4450-9CC7-A6F50E64E013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6C3170-8887-4450-9CC7-A6F50E64E013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6C3170-8887-4450-9CC7-A6F50E64E013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6C3170-8887-4450-9CC7-A6F50E64E013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11007D06-6A0E-477C-B471-5D4AAB105839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11007D06-6A0E-477C-B471-5D4AAB105839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11007D06-6A0E-477C-B471-5D4AAB105839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11007D06-6A0E-477C-B471-5D4AAB105839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53696897-2FDF-47B3-BCBA-2FDA976BF6F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53696897-2FDF-47B3-BCBA-2FDA976BF6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53696897-2FDF-47B3-BCBA-2FDA976BF6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53696897-2FDF-47B3-BCBA-2FDA976BF6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
